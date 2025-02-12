@@ -48,7 +48,7 @@ No installation is required. Simply download the `encode.py` file and run it usi
 
 ## Author
 - **Name**: Tristan-Brian
-- **Date**: Sun Feb 12 00:19:27 2025
+- **Date**: Wed Feb 12 4:20 2025
 - **GitHub**: [Github.com/TristanBrian](https://github.com/TristanBrian)
 
 ## License
